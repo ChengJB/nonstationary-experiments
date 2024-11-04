@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36220191-7f0c-44fa-84c9-0af80536db9a" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/pysrc/experiments/stationary_symm/idbd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pysrc/experiments/stationary_symm/predictorfactory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pysrc/experiments/stationary_asymm/idbd_exp_stationary_asymm.py" beforeDir="false" afterPath="$PROJECT_DIR$/pysrc/experiments/stationary_asymm/idbd_exp_stationary_asymm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pysrc/experiments/stationary_symm/autostep_exp_stationary_symm.py" beforeDir="false" afterPath="$PROJECT_DIR$/pysrc/experiments/stationary_symm/autostep_exp_stationary_symm.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2oNIgKkSmF47s5MPio7frLcWPS6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/ChengJiangBo/Desktop/研究生/研2/ANC/项目/nonstationary-experiments/pysrc/experiments/stationary_symm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ChengJiangBo\Desktop\研究生\研2\ANC\项目\nonstationary-experiments\pysrc\experiments\stationary_symm" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="36220191-7f0c-44fa-84c9-0af80536db9a" name="更改" comment="" />
+      <created>1730703716733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730703716733</updated>
+      <workItem from="1730703717749" duration="11185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/nonstationary_experiments$idbd_exp_stationary_symm.coverage" NAME="idbd_exp_stationary_symm 覆盖结果" MODIFIED="1730708138113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pysrc/experiments/stationary_symm" />
+    <SUITE FILE_PATH="coverage/nonstationary_experiments$__init__.coverage" NAME="__init__ 覆盖结果" MODIFIED="1730708029445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pysrc/environments" />
+    <SUITE FILE_PATH="coverage/nonstationary_experiments$bmp.coverage" NAME="bmp 覆盖结果" MODIFIED="1730724035783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pysrc/algorithms" />
+    <SUITE FILE_PATH="coverage/nonstationary_experiments$autostep_exp_stationary_symm.coverage" NAME="autostep_exp_stationary_symm 覆盖结果" MODIFIED="1730724890956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pysrc/experiments/stationary_symm" />
+    <SUITE FILE_PATH="coverage/nonstationary_experiments$idbd_exp_stationary_asymm.coverage" NAME="idbd_exp_stationary_asymm 覆盖结果" MODIFIED="1730709699454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pysrc/experiments/stationary_asymm" />
+    <SUITE FILE_PATH="coverage/nonstationary_experiments$stationaryprob.coverage" NAME="stationaryprob 覆盖结果" MODIFIED="1730708048099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pysrc/environments" />
+  </component>
+</project>
